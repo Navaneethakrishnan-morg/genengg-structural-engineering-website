@@ -1,113 +1,107 @@
-GenEngg Structural Engineering Website
+<h1 align="center">GenEngg Structural Engineering Website</h1>
 
-A responsive web platform designed to present structural engineering concepts, services, and resources in a clear and interactive way.
-The website demonstrates modern front-end development practices while showcasing structural engineering information and project presentation.
+<p>
+A responsive website designed to present structural engineering concepts, services, and information in a clear and structured format. 
+The platform focuses on intuitive navigation, organized content, and a clean interface for exploring engineering topics and resources.
+</p>
 
-Project Overview
+<hr>
 
-The GenEngg Structural Engineering Website is developed to provide an organized and user-friendly interface for presenting structural engineering topics, services, and project information.
+<h2>Overview</h2>
 
-This project focuses on:
+<p>
+The GenEngg Structural Engineering Website provides an accessible and structured way to explore structural engineering concepts and related information.
+The design emphasizes clarity, usability, and responsive layout to ensure a consistent experience across devices.
+</p>
 
-Presenting structural engineering concepts through a clean web interface
+<hr>
 
-Demonstrating front-end web development skills
+<h2>Features</h2>
 
-Creating a responsive and accessible website
+<ul>
+<li>Responsive layout for desktop and mobile devices</li>
+<li>Organized presentation of structural engineering topics</li>
+<li>Clean and intuitive user interface</li>
+<li>Structured navigation across sections</li>
+<li>Modern web design practices</li>
+<li>Optimized page layout for readability</li>
+</ul>
 
-Structuring engineering content in an organized format
+<hr>
 
-Features
+<h2>Technologies Used</h2>
 
-Responsive website design
+<ul>
+<li><strong>HTML5</strong> – Structure of the website</li>
+<li><strong>CSS3</strong> – Styling and layout design</li>
+<li><strong>JavaScript</strong> – Interactive elements and functionality</li>
+<li><strong>Git</strong> – Version control</li>
+<li><strong>GitHub</strong> – Repository hosting</li>
+</ul>
 
-Clean and structured layout
+<hr>
 
-Multiple webpage sections
+<h2>Project Structure</h2>
 
-Easy navigation between engineering topics
-
-Organized content presentation
-
-Modern UI styling
-
-Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Git
-
-GitHub
-
-Project Structure
+<pre>
 genengg-structural-engineering-website
 │
 ├── index.html
-├── css
+├── css/
 │   └── style.css
-│
-├── js
+├── js/
 │   └── script.js
-│
-├── images
-│   └── project-images
-│
+├── images/
 └── README.md
-Installation
+</pre>
 
-Clone the repository:
+<hr>
 
+<h2>Installation</h2>
+
+<p><strong>Clone the repository:</strong></p>
+
+<pre>
 git clone https://github.com/Navaneethakrishnan-morg/genengg-structural-engineering-website.git
+</pre>
 
-Navigate to the project folder:
+<p><strong>Navigate to the project directory:</strong></p>
 
+<pre>
 cd genengg-structural-engineering-website
+</pre>
 
-Open the website:
+<p><strong>Open the website:</strong></p>
 
-Open index.html in your browser
-Usage
+<pre>
+Open index.html in your preferred web browser
+</pre>
 
-The website can be used to:
+<hr>
 
-Demonstrate structural engineering information
+<h2>Usage</h2>
 
-Showcase engineering-related projects
+<p>
+The website allows users to explore structural engineering information through a structured layout.
+Each section presents engineering concepts and resources in an organized and easy-to-navigate format.
+</p>
 
-Learn basic front-end web development
+<hr>
 
-Present engineering services or concepts
+<h2>Author</h2>
 
-Screenshots
-
-Add screenshots of your website here.
-
-Example:
-
-/screenshots/homepage.png
-/screenshots/about.png
-/screenshots/services.png
-Future Improvements
-
-Add backend integration
-
-Improve UI animations
-
-Add more structural engineering resources
-
-Optimize for mobile devices
-
-Implement contact form functionality
-
-Author
-
-Navaneethakrishnan T
-
+<p>
+<strong>Navaneethakrishnan T</strong><br>
 Computer Science and Business Systems
-Passionate Developer interested in building real-world applications
+</p>
 
-Email: navaneethakrishnan2516@gmail.com
+<p>
+<strong>Email:</strong> navaneethakrishnan2516@gmail.com
+</p>
+
+<p>
+<strong>GitHub:</strong><br>
+<a href="https://github.com/Navaneethakrishnan-morg">
+https://github.com/Navaneethakrishnan-morg
+</a>
+</p>
