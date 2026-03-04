@@ -1,36 +1,113 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+GenEngg Structural Engineering Website
 
-## Getting Started
+A responsive web platform designed to present structural engineering concepts, services, and resources in a clear and interactive way.
+The website demonstrates modern front-end development practices while showcasing structural engineering information and project presentation.
 
-First, run the development server:
+Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The GenEngg Structural Engineering Website is developed to provide an organized and user-friendly interface for presenting structural engineering topics, services, and project information.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project focuses on:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Presenting structural engineering concepts through a clean web interface
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Demonstrating front-end web development skills
 
-## Learn More
+Creating a responsive and accessible website
 
-To learn more about Next.js, take a look at the following resources:
+Structuring engineering content in an organized format
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Responsive website design
 
-## Deploy on Vercel
+Clean and structured layout
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Multiple webpage sections
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Easy navigation between engineering topics
+
+Organized content presentation
+
+Modern UI styling
+
+Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Git
+
+GitHub
+
+Project Structure
+genengg-structural-engineering-website
+│
+├── index.html
+├── css
+│   └── style.css
+│
+├── js
+│   └── script.js
+│
+├── images
+│   └── project-images
+│
+└── README.md
+Installation
+
+Clone the repository:
+
+git clone https://github.com/Navaneethakrishnan-morg/genengg-structural-engineering-website.git
+
+Navigate to the project folder:
+
+cd genengg-structural-engineering-website
+
+Open the website:
+
+Open index.html in your browser
+Usage
+
+The website can be used to:
+
+Demonstrate structural engineering information
+
+Showcase engineering-related projects
+
+Learn basic front-end web development
+
+Present engineering services or concepts
+
+Screenshots
+
+Add screenshots of your website here.
+
+Example:
+
+/screenshots/homepage.png
+/screenshots/about.png
+/screenshots/services.png
+Future Improvements
+
+Add backend integration
+
+Improve UI animations
+
+Add more structural engineering resources
+
+Optimize for mobile devices
+
+Implement contact form functionality
+
+Author
+
+Navaneethakrishnan T
+
+Computer Science and Business Systems
+Passionate Developer interested in building real-world applications
+
+Email: navaneethakrishnan2516@gmail.com
